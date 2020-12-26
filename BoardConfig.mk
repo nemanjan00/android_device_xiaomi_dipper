@@ -91,7 +91,6 @@ BOARD_BUILD_DISABLED_VBMETAIMAGE := true
 
 # Crypto
 TW_INCLUDE_CRYPTO := true
-TW_INCLUDE_FBE := true
 
 # TWRP specific build flags
 TW_THEME := portrait_hdpi

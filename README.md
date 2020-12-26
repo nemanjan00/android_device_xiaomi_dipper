@@ -1,5 +1,5 @@
 # android_device_xiaomi_dipper
-For building TWRP for Xiaomi Mi 8
+For building TWRP for Xiaomi Mi 8, with block based encryption
 
 TWRP device tree for Xiaomi MI 8
 
@@ -25,7 +25,7 @@ repo sync
 Then add these projects to .repo/manifest.xml:
 
 ```xml
-<project path="device/xiaomi/dipper" name="mauronofrio/android_device_xiaomi_dipper" remote="github" revision="android-9.0" />
+<project path="device/xiaomi/dipper" name="nemanjan00/android_device_xiaomi_dipper" remote="github" revision="android-9.0" />
 ```
 
 Finally execute these:
