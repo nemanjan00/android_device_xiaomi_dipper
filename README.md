@@ -7,11 +7,16 @@ TWRP device tree for Xiaomi MI 8
 
 Works:
 
+- Block based encryption
 - ADB
 - Decryption of /data
 - Screen brightness settings
 - Vibration on touch 
 - Correct screenshot color 
+
+## Changing encryption
+
+Replace `/vendor/fstab.qcom` with version from this repo.
 
 ## Compile
 
