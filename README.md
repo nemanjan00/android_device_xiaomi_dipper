@@ -16,7 +16,9 @@ Works:
 
 ## Changing encryption
 
-Replace `/vendor/fstab.qcom` with version from this repo.
+Replace `/vendor/fstab.qcom` with [version from this repo](https://github.com/nemanjan00/android_device_xiaomi_dipper/blob/android-9.0/fstab.qcom).
+
+Follow [this](https://android.stackexchange.com/a/220609) tutorial for formating `userdata`.
 
 ## Compile
 
